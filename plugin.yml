@@ -1,0 +1,5 @@
+name: ImageResizeScanner
+main: skh6075\imagescanner\Loader
+author: skh6075
+version: 1.0.0
+api: 4.0.0
